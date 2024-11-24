@@ -1,6 +1,12 @@
 {
     "users":[
-
+{
+    "id": 52,
+    "name": "okun",
+    "surname": "Kyivenko",
+    "photo": "https://nordica.com.ua/image/cache/catalog/products/riba/riba-stolovih-sortov/krasniy-okun/okun-bez-golovy-s-m-1500x1000-product_popup.jpg",
+    "balance": 1488
+}
 
     ] 
 }
