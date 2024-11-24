@@ -1,6 +1,10 @@
 {
-    "users":[
+    "users":{
+        "id":14,
+        "name": "Igor",
+        "surname": "Malimon",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4a3QnXIwLO-JdI4NovXVCcU7XEWXlX1nnXA&s",
+        "balance": 1488
 
-
-    ] 
+    }
 }
