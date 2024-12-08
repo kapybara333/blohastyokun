@@ -1,31 +1,46 @@
-{
-    "users":[
-{
-    "id": 52,
-    "name": "okunok",
-    "surname": "Kyivenkochervak",
-    "photo": "https://nordica.com.ua/image/cache/catalog/products/riba/riba-stolovih-sortov/krasniy-okun/okun-bez-golovy-s-m-1500x1000-product_popup.jpg",
-    "balance": 1488
-}
-
-    ]
-    "users":{
-        "id":14,
-        "name": "Igor",
-        "surname": "Malimon",
-        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4a3QnXIwLO-JdI4NovXVCcU7XEWXlX1nnXA&s",
-        "balance": 111111
-
-    }
-},
-"products":[
+{ 
+   "products": [
     {
-        "kovbasa"
-        "okun"
-        "salat"
-        
-        "prime"
-        "kvas"
-        "lapka"
+        "id": 1,
+        "name": "donut",
+        "sirname": "shovel",
+        "photo_url": "https://www.meme-arsenal.com/memes/27b4132f9340b0951ef3be17c155c773.jpg",
+        "price": 45
+    },
+    {
+        "id": 2,
+        "name": "lays",
+        "sirname": "selderey",
+        "photo_url": "https://producto.com.ua/image/cache/catalog/111/PEPSI/313194231-1000x1000.jpg",
+        "price": 60
+    },
+    {
+        "id": 3,
+        "name": "lego 42055",
+        "sirname": "persik",
+        "photo_url": "https://hotline.ua/img/tx/239/2396340755.jpg",
+        "price": 20000
+    },
+    {
+        "id": 4,
+        "name": "donut",
+        "sirname": "shovel",
+        "photo_url": "https://www.meme-arsenal.com/memes/27b4132f9340b0951ef3be17c155c773.jpg",
+        "price": 45
+    },
+    {
+        "id": 5,
+        "name": "lays",
+        "sirname": "selderey",
+        "photo_url": "https://producto.com.ua/image/cache/catalog/111/PEPSI/313194231-1000x1000.jpg",
+        "price": 60
+    },
+    {
+        "id": 6,
+        "name": "lego 42055",
+        "sirname": "persik",
+        "photo_url": "https://hotline.ua/img/tx/239/2396340755.jpg",
+        "price": 20000
     }
-]
+   ]
+}
